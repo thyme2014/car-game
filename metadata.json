@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon",
+  "description": "Open-world realistic car driving simulator with authentic suspension and tire physics, manual and automatic 6-speed shifting, freeroam, and timed driving missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
